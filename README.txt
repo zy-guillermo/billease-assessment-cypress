@@ -6,6 +6,11 @@ Go to Actions and re-run workflow
 TC 1
   Enter "Lazada" into the search bar
   Verify result - should display results for Lazada
+  ** Added a bit of razzle dazzle **
+  Change Amount Slider from 2000>20000>30000>40000
+  Change Down Payment Slider to 0
+  Click on each available installment plan buttons
+  Verify About Lazada section
 
 TC 2
   Enter "Samsung" into the search bar
