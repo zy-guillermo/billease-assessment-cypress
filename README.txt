@@ -1,3 +1,8 @@
+
+Added GitHub workflow for executing cypress test within GitHub
+Go to Actions and re-run workflow
+
+
 TC 1
   Enter "Lazada" into the search bar
   Verify result - should display results for Lazada
