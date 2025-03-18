@@ -14,3 +14,12 @@ TC 2
 TC 3
   Enter an Invalid Product in the search bar
   Verify result - should display No result found for invalid product search
+
+
+For running without GUI
+- run in terminal of project folder
+> npx cypress run --spec "cypress\e2e\billease-shop.cy.js"
+
+For running with GUI
+- run in terminal of project folder
+> npx cypress open
